@@ -1,9 +1,4 @@
-//  Randall Hess randall.hess@gmail.com
-//  Instructions: Copy this file over your local maya version to override the default behavior
 //  Maya 2022 and Higher
-//  Additional: You can also build and load this as a module and not overwrite the local maya file.
-
-//  Location: C:\Program Files\Autodesk\MayaXX\scripts\others\performFileDropAction.mel
 
 
 global proc int
