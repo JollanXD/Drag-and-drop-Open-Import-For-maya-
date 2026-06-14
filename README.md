@@ -1,4 +1,7 @@
 # Maya Drag-and-Drop Project Opener / Importer
+### 📥 Скачать / Download
+
+[![Скачать скрипт](https://shields.io)](https://githubusercontent.com)
 
 Скрипт добавляет удобное диалоговое окно при перетаскивании (Drag-and-Drop) файлов проектов `.ma` и `.mb` в окно Autodesk Maya. Вместо автоматического действия программа предложит вам выбрать: **Открыть (Open)** или **Импортировать (Import)** проект.
 
