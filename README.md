@@ -16,7 +16,7 @@
    ```text
    C:\Program Files\Autodesk\Maya202X\scripts\others\
    ```
-   *(Replace `202X` with your current Maya version, e.g., `2024` or `2025`)*.
+   *(Replace `202X` with your current Maya version, e.g., `2022` - `2026`)*.
 3. **Backup the original file:** 
    * Locate the original `performFileDropAction.mel` file.
    * Rename it to `performFileDropAction.mel_BAK` for safety.
