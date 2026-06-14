@@ -1,7 +1,7 @@
 # Maya Drag-and-Drop Project Opener / Importer
 ### 📥 Скачать / Download
 
-[![Скачать скрипт](https://shields.io)](https://github.com/JollanXD/Drag-and-drop-Open-Import-For-maya-/blob/main/performFileDropAction.mel)
+[![Скачать скрипт]](https://github.com/JollanXD/Drag-and-drop-Open-Import-For-maya-/blob/main/performFileDropAction.mel)
 
 
 
